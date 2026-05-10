@@ -37,3 +37,13 @@ Feature sensitivity
 Example:
 
 “If income increased by $5,000 and loan amount decreased by $2,000, the prediction changes from rejected to approved.”
+
+Future Improvements
+SHAP integration
+LIME explanations
+Deep learning model support
+Real-time inference APIs
+NLP model explainability
+Author
+
+Adithya Arun
